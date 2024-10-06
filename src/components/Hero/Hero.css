@@ -1,11 +1,12 @@
 .hero_section{
     display: flex;
-
+    margin-left: 100px;
+    margin-right: 100px;
 }
 h1{
-    font-size: 101px;
+    font-size: 68px;
     font-weight: 800;
-    line-height: 102px;
+    line-height: 62px;
 }
 .desc{
     font-size: 16px;
@@ -22,4 +23,5 @@ h1{
     background-color: transparent;
     border: 1px solid black;
     padding: 5px;
+    margin-left: 20px;
 }
